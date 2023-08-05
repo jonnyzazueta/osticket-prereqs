@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install osTicket v1.15.8
 - Download and install HiediSQL
 
-<h2>Installation Steps</h2>
+<h2>Installation Examples</h2>
 
 <p>
 <img width="764" alt="image" src="https://github.com/jonnyzazueta/osticket-prereqs/assets/140366756/59e1eccd-d5ea-453c-a245-e1fe039bad75">
